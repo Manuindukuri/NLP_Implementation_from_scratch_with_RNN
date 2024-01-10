@@ -1,5 +1,7 @@
-# Unraveling the Intricacies of Language: A Deep Dive into NLP with Recurrent Neural Networks
+# A Deep Dive into NLP with Recurrent Neural Networks
 This project embarks on an ambitious journey to explore the depths of Natural Language Processing (NLP) through the lens of Recurrent Neural Networks (RNNs). It stands at the intersection of linguistic creativity and the precision of machine learning, aiming to push the boundaries of what's achievable with current NLP methodologies. By delving into the intricacies of language modeling, the project attempts to build models that not only mimic human language but also understand its nuances to a certain degree.
+
+![NLP](https://github.com/Manuindukuri/NLP_from_scratch_with_RNN/assets/114769115/81443c3a-380d-4f90-9ecd-14598643b172)
 
 # Objectives
 **1. Enhancing a Shakespearean Sonnet Generator:** To develop a model that can generate text in the style of Shakespeare, going beyond predicting sentence endings to include generating coherent subsequent words.
