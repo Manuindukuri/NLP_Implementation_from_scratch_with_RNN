@@ -1,1 +1,1 @@
-# NLP_Implementation_from_scratch_with_RNN
+# Unraveling the Intricacies of Language: A Deep Dive into NLP with Recurrent Neural Networks
