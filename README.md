@@ -1,4 +1,15 @@
 # A Deep Dive into NLP with Recurrent Neural Networks
+
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org) 
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org)
+[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+[![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org) 
+
+
 This project embarks on an ambitious journey to explore the depths of Natural Language Processing (NLP) through the lens of Recurrent Neural Networks (RNNs). It stands at the intersection of linguistic creativity and the precision of machine learning, aiming to push the boundaries of what's achievable with current NLP methodologies. By delving into the intricacies of language modeling, the project attempts to build models that not only mimic human language but also understand its nuances to a certain degree.
 
 ![NLP](https://github.com/Manuindukuri/NLP_from_scratch_with_RNN/assets/114769115/81443c3a-380d-4f90-9ecd-14598643b172)
