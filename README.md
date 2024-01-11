@@ -66,7 +66,7 @@ This section is a testament to the project's creative prowess. By training a mod
 - A dense neural network was implemented for the same addition task.
 - The project then engaged in a comparative study of the performance of the dense network versus the RNN, providing valuable insights into the strengths and limitations of each architecture.
   
-## 7. Theoretical Insights
+## 6. Theoretical Insights
 
 **Dense vs Recurrent Networks**
 
